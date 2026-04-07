@@ -82,6 +82,6 @@ Building with MCP? Thinking about agentic AI? Always happy to chat.
 
 <p>
   <a href="https://github.com/awslabs/mcp"><img src="https://img.shields.io/badge/AWS%20MCP%20Servers-181717?style=for-the-badge&logo=github" alt="AWS MCP Servers" /></a>
-  <a href="https://linkedin.com/in/laithalsaadoon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/theagenticguy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/theagenticguy"><img src="https://img.shields.io/badge/@theagenticguy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
 </p>
