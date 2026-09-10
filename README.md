@@ -1,87 +1,37 @@
-# Hey, I'm Laith 👋
+# Laith Al-Saadoon
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI+Engineer+%7C+Full-Stack+Prototyping;Creator+of+AWS+MCP+Servers;Making+agentic+AI+accessible" alt="Typing SVG" /></a>
+Principal AI Engineer in AWS Developer Tools, Houston, Texas. I work on one idea, the autonomous work horizon: how long an AI agent can work on its own before a person has to step in. I run my own fleet of agents every day, measure that number, and try to make it longer.
 
-Hands-on AI Engineer with 11 years across software engineering, data, and AI. Nine years at AWS architecting solutions for Fortune 500 enterprises. I build things — 20+ full-stack prototypes, production agentic systems, and open-source tools used by millions.
+My customers are the AI agents that build on AWS, and the people and companies behind them. I work with the field and with the companies that make coding assistants so whatever agent a customer already uses builds well on AWS, I turn what I learn into prescriptive guidance (instrumented open source, evals, and reference implementations that show one recommended path), and I carry what the field teaches me back to engineering.
 
-Creator of **[AWS MCP Servers](https://github.com/awslabs/mcp)** and leading AWS MCP strategy. I believe the best AI feels like having an expert next to you, not fighting a system.
+Long-form writing lives at **[laithalsaadoon.com](https://laithalsaadoon.com)** as the Frontier Field Notes.
 
----
+## Created
 
-### 🚀 What I'm Building
+<a href="https://github.com/awslabs/mcp"><img src="https://img.shields.io/github/stars/awslabs/mcp?style=for-the-badge&logo=github&label=AWS%20MCP%20Servers&color=181717" alt="AWS MCP Servers stars" /></a>
 
-**Agentic AI & MCP** — Making AI systems that actually *do things*. Model Context Protocol is how we connect AI to the real world, and I'm driving AWS's open-source efforts here.
+**[AWS MCP Servers](https://github.com/awslabs/mcp)**, the open-source Model Context Protocol servers for AWS, now past tens of millions of PyPI downloads. I created the project and led AWS MCP strategy.
 
-<p>
-  <a href="https://github.com/awslabs/mcp">
-    <img src="https://img.shields.io/github/stars/awslabs/mcp?style=for-the-badge&logo=github&label=AWS%20MCP%20Servers&color=181717" alt="AWS MCP Servers Stars" />
-  </a>
-  <img src="https://img.shields.io/badge/PyPI%20Downloads-30M+-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Downloads" />
-</p>
+## Building now
 
-**Other contributions:** [Strands Agents SDK](https://github.com/strands-agents/sdk-python) • [LangChain](https://github.com/langchain-ai/langchain) • [Mem0](https://github.com/mem0ai/mem0)
+| Repo | What it is |
+|------|------------|
+| [microvms-agentd](https://github.com/laithalsaadoon/microvms-agentd) | Exec and file-transfer daemon for AWS Lambda MicroVMs (Firecracker), with Rust, Python and Node bindings and a 75-check conformance suite. Agent sandboxes in your own account. |
+| [lambda-microvm-sandbox](https://github.com/laithalsaadoon/lambda-microvm-sandbox) | `createLambdaSandbox()` for the Vercel AI SDK harness, so the sandbox runs on Lambda MicroVMs under your network policy. [Article](https://builder.aws.com/content/2qJu5Dx6i6UdTZXbgzU9ASI07OD/run-vercel-ai-sdk-harness-sandboxes-in-your-own-aws-account). |
+| [erpaval](https://github.com/laithalsaadoon/erpaval) | Explore, Research, Plan, Act, Validate, Compound: the loop my coding agents run inside, with a lessons store that carries forward between sessions. |
 
----
+Earlier: the Generative AI CDK Constructs shown in Werner Vogels' re:Invent 2023 keynote, the PagerDuty and Amazon Q incident integration in Matt Garman's re:Invent 2024 keynote, and United Airlines' "Every Flight Has a Story" notifications on Amazon Bedrock and Claude. At AWS since 2016; before that one of the first ten at Onica (later Rackspace); before that a genomics lab.
 
-### 🛠️ Recent Work
+## Elsewhere
 
-| Project | What I Built |
-|---------|-------------|
-| **Real-time Voice AI** | Speech-to-speech system that autonomously calls and books appointments. Claude Haiku + Sonnet orchestration with PSTN integration. |
-| **Conversational Incident Management** | Amazon Q integration for incident response — featured in re:Invent 2024 keynote. |
-| **GenAI Flight Notifications** | RAG + real-time streaming for contextual, personalized notifications. Scaled to 6,000+ flights in 5 months. |
-| **Predictive Maintenance** | Early detection system saving $1M+/year. Simpler interpretable model outperformed complex transformers. |
-| **GenAI CDK Constructs** | Open-source IaC patterns for GenAI apps — featured in Werner Vogels' 2023 keynote, used by 5,000+ customers. |
+- Site and Frontier Field Notes: https://laithalsaadoon.com
+- LinkedIn: https://www.linkedin.com/in/laithalsaadoon
+- AWS Builder Center: https://builder.aws.com/community/@lalsaado
 
----
-
-### 💡 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-**GenAI:** Agentic AI, LLMs, RAG, MCP, Real-time Voice AI
-**ML:** Time series, Computer Vision, NLP, Recommender Systems
-**Data:** PostgreSQL, DynamoDB, OpenSearch (vector + full-text)
-
----
-
-### 📊 GitHub Stats
+## GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theagenticguy&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=theagenticguy&show_icons=true&theme=default&hide_border=true&bg_color=00000000&include_all_commits=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=theagenticguy&show_icons=true&hide_border=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=laithalsaadoon&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=laithalsaadoon&show_icons=true&theme=default&hide_border=true&bg_color=00000000&include_all_commits=true" />
+  <img alt="GitHub stats for laithalsaadoon" src="https://github-readme-stats.vercel.app/api?username=laithalsaadoon&show_icons=true&hide_border=true&include_all_commits=true" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theagenticguy&theme=github-dark-blue&hide_border=true&background=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theagenticguy&theme=default&hide_border=true&background=00000000" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=theagenticguy&hide_border=true" />
-</picture>
-
----
-
-### 🎤 Speaking & Writing
-
-- **Publications** — [Minding the Machines](https://www.innovatingjustice.org/publications/minding-machines) (AI ethics in criminal justice)
-- **Blog** — 8 posts on ML, GenAI, data analytics, and developer tooling
-- **Conferences** — re:Invent, AWS Summits, CERAWeek, local meetups
-
----
-
-### 🤝 Let's Connect
-
-Building with MCP? Thinking about agentic AI? Always happy to chat.
-
-<p>
-  <a href="https://github.com/awslabs/mcp"><img src="https://img.shields.io/badge/AWS%20MCP%20Servers-181717?style=for-the-badge&logo=github" alt="AWS MCP Servers" /></a>
-  <a href="https://linkedin.com/in/theagenticguy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/theagenticguy"><img src="https://img.shields.io/badge/@theagenticguy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-</p>
